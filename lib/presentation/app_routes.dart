@@ -11,7 +11,7 @@ class AppRouter {
 
   AppRouter() {
     moviesRepo = MoviesRepo(MoviesApi());
-    moviesCubit = MoviesCubit(moviesRepo, []);
+    moviesCubit = MoviesCubit(moviesRepo);
   }
 
   Route? generateRoute(RouteSettings settings) {

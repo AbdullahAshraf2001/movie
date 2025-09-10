@@ -6,6 +6,7 @@ sealed class MoviesState {}
 final class MoviesInitial extends MoviesState {}
 
 final class MoviesLoaded extends MoviesState {
-  final List<Movies> movies;
+  final List<Results> movies;
   MoviesLoaded(this.movies);
 }
+

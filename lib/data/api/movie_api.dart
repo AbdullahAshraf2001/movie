@@ -13,14 +13,11 @@ class MoviesApi {
     dio = Dio(options);
   }
 
-  Future<List<dynamic>> getAllMovies() async {
-    try {
-      Response response = await dio.get(baseUrl);
-      return response.data;
-    } catch (e) {
-      return [];
-    }
+  Future<Map<String, dynamic>> getAllMovies() async {
+    Response response = await dio.get(
+      "/movie/popular",
+      queryParameters: {"api_key": apiKey},
+    );
+    return response.data;
   }
 }
-
-

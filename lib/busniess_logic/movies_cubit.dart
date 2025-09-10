@@ -6,16 +6,16 @@ import 'package:movie/data/repo/movies_repo.dart';
 part 'movies_state.dart';
 
 class MoviesCubit extends Cubit<MoviesState> {
-  
+
   final MoviesRepo moviesRepo;
-  List<Movies> movies;
-  
-  MoviesCubit(this.moviesRepo, this.movies) : super(MoviesInitial());
-  
-  List<Movies> getAllMovies(){
-    moviesRepo.getAllMovies().then((movies){
+  List<Results> movies = [];
+
+  MoviesCubit(this.moviesRepo) : super(MoviesInitial());
+
+  getAllMovies(){
+    moviesRepo.getAllMovies().then((moviesResponse){
+      movies = moviesResponse.results ?? [];
       emit(MoviesLoaded(movies));
-      this.movies = movies;
     });
 
     return movies;
