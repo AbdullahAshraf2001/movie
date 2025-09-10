@@ -1,200 +1,100 @@
-/// page : 1
-/// results : [{"adult":false,"backdrop_path":"/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg","genre_ids":[878,53],"id":755898,"original_language":"en","original_title":"War of the Worlds","overview":"Will Radford is a top analyst for Homeland Security who tracks potential threats through a mass surveillance program, until one day an attack by an unknown entity leads him to question whether the government is hiding something from him... and from the rest of the world.","popularity":583.5149,"poster_path":"/yvirUYrva23IudARHn3mMGVxWqM.jpg","release_date":"2025-07-29","title":"War of the Worlds","video":false,"vote_average":4.351,"vote_count":501},{"adult":false,"backdrop_path":"/fq8gLtrz1ByW3KQ2IM3RMZEIjsQ.jpg","genre_ids":[27],"id":1038392,"original_language":"en","original_title":"The Conjuring: Last Rites","overview":"Paranormal investigators Ed and Lorraine Warren take on one last terrifying case involving mysterious entities they must confront.","popularity":554.8221,"poster_path":"/8XfIKOPmuCZLh5ooK13SPKeybWF.jpg","release_date":"2025-09-03","title":"The Conjuring: Last Rites","video":false,"vote_average":7.012,"vote_count":165},{"adult":false,"backdrop_path":"/mEW9XMgYDO6U0MJcIRqRuSwjzN5.jpg","genre_ids":[28,53],"id":1007734,"original_language":"en","original_title":"Nobody 2","overview":"Former assassin Hutch Mansell takes his family on a nostalgic vacation to a small-town theme park, only to be pulled back into violence when they clash with a corrupt operator, a crooked sheriff, and a ruthless crime boss.","popularity":455.1798,"poster_path":"/svXVRoRSu6zzFtCzkRsjZS7Lqpd.jpg","release_date":"2025-08-13","title":"Nobody 2","video":false,"vote_average":7.262,"vote_count":369},{"adult":false,"backdrop_path":"/1wi1hcbl6KYqARjdQ4qrBWZdiau.jpg","genre_ids":[28,35,80],"id":1035259,"original_language":"en","original_title":"The Naked Gun","overview":"Only one man has the particular set of skills... to lead Police Squad and save the world: Lt. Frank Drebin Jr.","popularity":403.5453,"poster_path":"/aq0JMbmSfPwG8JvAzExJPrBHqmG.jpg","release_date":"2025-07-30","title":"The Naked Gun","video":false,"vote_average":6.755,"vote_count":532},{"adult":false,"backdrop_path":"/6nCy4OrV7gxhDc3lBSUxkNALPej.jpg","genre_ids":[28,36,18,12,10752],"id":1051486,"original_language":"en","original_title":"Stockholm Bloodbath","overview":"In 1520, the notorious and power-hungry Danish King Christian II is determined to seize the Swedish crown from Sten Sture, no matter what it takes. Meanwhile, sisters Freja and Anne make a solemn promise to seek revenge on the men who brutally murdered their family. Everything comes to a head in the heart of Stockholm, where the sisters are drawn into a ruthless political struggle between Sweden and Denmark that culminates in a mass execution, presided over by the mad King \"Christian the Tyrant,\" known as the Stockholm Bloodbath.","popularity":310.665,"poster_path":"/tzXOB8nxO70SfSbOhrYcY94x6MI.jpg","release_date":"2024-01-19","title":"Stockholm Bloodbath","video":false,"vote_average":6.3,"vote_count":29},{"adult":false,"backdrop_path":"/1RgPyOhN4DRs225BGTlHJqCudII.jpg","genre_ids":[16,28,14,53],"id":1311031,"original_language":"ja","original_title":"劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来","overview":"The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.","popularity":279.2728,"poster_path":"/aFRDH3P7TX61FVGpaLhKr6QiOC1.jpg","release_date":"2025-07-18","title":"Demon Slayer: Kimetsu no Yaiba Infinity Castle","video":false,"vote_average":7.3,"vote_count":104},{"adult":false,"backdrop_path":"/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg","genre_ids":[878,12,28],"id":1061474,"original_language":"en","original_title":"Superman","overview":"Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.","popularity":251.4321,"poster_path":"/ombsmhYUqR4qqOLOxAyr5V8hbyv.jpg","release_date":"2025-07-09","title":"Superman","video":false,"vote_average":7.5,"vote_count":3001},{"adult":false,"backdrop_path":"/ZtcGMc204JsNqfjS9lU6udRgpo.jpg","genre_ids":[28,18],"id":911430,"original_language":"en","original_title":"F1","overview":"Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team—and mentor a young hotshot driver—while chasing one more chance at glory.","popularity":240.6452,"poster_path":"/9PXZIUsSDh4alB80jheWX4fhZmy.jpg","release_date":"2025-06-25","title":"F1","video":false,"vote_average":7.8,"vote_count":1939},{"adult":false,"backdrop_path":"/zNriRTr0kWwyaXPzdg1EIxf0BWk.jpg","genre_ids":[878,12,28],"id":1234821,"original_language":"en","original_title":"Jurassic World Rebirth","overview":"Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.","popularity":212.7441,"poster_path":"/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg","release_date":"2025-07-01","title":"Jurassic World Rebirth","video":false,"vote_average":6.381,"vote_count":2021},{"adult":false,"backdrop_path":"/538U9snNc2fpnOmYXAPUh3zn31H.jpg","genre_ids":[28,12,53],"id":575265,"original_language":"en","original_title":"Mission: Impossible - The Final Reckoning","overview":"Ethan Hunt and team continue their search for the terrifying AI known as the Entity — which has infiltrated intelligence networks all over the globe — with the world's governments and a mysterious ghost from Hunt's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever.","popularity":208.8733,"poster_path":"/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg","release_date":"2025-05-17","title":"Mission: Impossible - The Final Reckoning","video":false,"vote_average":7.273,"vote_count":1644},{"adult":false,"backdrop_path":"/uBB1aMga5ngZxsUQL5k36zeW3pB.jpg","genre_ids":[27,10749],"id":1242011,"original_language":"en","original_title":"Together","overview":"With a move to the countryside already testing the limits of a couple's relationship, a supernatural encounter begins an extreme transformation of their love, their lives, and their flesh.","popularity":176.0957,"poster_path":"/m52XidzKx94bKlToZfEXUnL3pdy.jpg","release_date":"2025-07-23","title":"Together","video":false,"vote_average":7.153,"vote_count":382},{"adult":false,"backdrop_path":"/2nwhxEyefcIFKwOrSigiamoIzu2.jpg","genre_ids":[28,53,18],"id":1119878,"original_language":"en","original_title":"Ice Road: Vengeance","overview":"Big rig ice road driver Mike McCann travels to Nepal to scatter his late brother’s ashes on Mt. Everest. While on a packed tour bus traversing the deadly 12,000 ft. terrain of the infamous Road to the Sky, McCann and his mountain guide encounter a group of mercenaries and must fight to save themselves, the busload of innocent travelers, and the local villagers’ homeland.","popularity":180.525,"poster_path":"/cQN9rZj06rXMVkk76UF1DfBAico.jpg","release_date":"2025-06-27","title":"Ice Road: Vengeance","video":false,"vote_average":6.6,"vote_count":297},{"adult":false,"backdrop_path":"/dg1VXTXSChZG3O5c1Op5kozbi2q.jpg","genre_ids":[53,80,18],"id":1242434,"original_language":"en","original_title":"Highest 2 Lowest","overview":"When a titan music mogul, widely known as having the \"best ears in the business\", is targeted with a ransom plot, he is jammed up in a life-or-death moral dilemma.","popularity":187.2314,"poster_path":"/kOzwIr0R7WhaFgoYUZFLPZA2RBZ.jpg","release_date":"2025-08-14","title":"Highest 2 Lowest","video":false,"vote_average":6.036,"vote_count":137},{"adult":false,"backdrop_path":"/xSD0q1FiuZkvHuy7uscOLbmd1hR.jpg","genre_ids":[12,28,14],"id":13494,"original_language":"en","original_title":"Red Sonja","overview":"A young girl rises from the ashes of tragedy to become the most feared warrior woman of all time: the She-Devil with a Sword.","popularity":155.4533,"poster_path":"/l10eghFN1nQmWwMSt91MlLvZZFA.jpg","release_date":"2025-07-31","title":"Red Sonja","video":false,"vote_average":5.782,"vote_count":71},{"adult":false,"backdrop_path":"/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg","genre_ids":[16,28,12,35,10751,14,10402],"id":803796,"original_language":"en","original_title":"KPop Demon Hunters","overview":"When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.","popularity":162.7852,"poster_path":"/22AouvwlhlXbe3nrFcjzL24bvWH.jpg","release_date":"2025-06-20","title":"KPop Demon Hunters","video":false,"vote_average":8.352,"vote_count":1315},{"adult":false,"backdrop_path":"/yth78N88nwokepnOe5atwPGfTL1.jpg","genre_ids":[28,80,53],"id":1382406,"original_language":"zh","original_title":"惊天大营救","overview":"A veteran Muay Thai expert goes on a take-no-prisoners mission of revenge after his wife and daughter are brutally murdered by mysterious forces.","popularity":159.9977,"poster_path":"/nML8rOI4GOiiEsXgknuhZeUF8M7.jpg","release_date":"2024-12-05","title":"Striking Rescue","video":false,"vote_average":7.627,"vote_count":106},{"adult":false,"backdrop_path":"/8J6UlIFcU7eZfq9iCLbgc8Auklg.jpg","genre_ids":[14,10751,28,12],"id":1087192,"original_language":"en","original_title":"How to Train Your Dragon","overview":"On the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup stands apart, defying centuries of tradition when he befriends Toothless, a feared Night Fury dragon. Their unlikely bond reveals the true nature of dragons, challenging the very foundations of Viking society.","popularity":164.1383,"poster_path":"/q5pXRYTycaeW6dEgsCrd4mYPmxM.jpg","release_date":"2025-06-06","title":"How to Train Your Dragon","video":false,"vote_average":8.033,"vote_count":1849},{"adult":false,"backdrop_path":"/pHvHLrbvMogNMH1l7Uon3VzE3px.jpg","genre_ids":[80,28],"id":660033,"original_language":"pl","original_title":"Jak zostałem gangsterem. Historia prawdziwa","overview":"The action of the film begins in the 1970s – even then, the young protagonist knows that adrenaline tastes better than powdered milk. Over time, he also discovers a desire for money, power, and being above the law. A transformation begins, and his gangster talent blossoms. Together with a friend, they build their own army.","popularity":138.9777,"poster_path":"/oEvk45mBpE6s6wmIjvCTbdaMMpB.jpg","release_date":"2019-12-25","title":"How I Became a Gangster","video":false,"vote_average":7.032,"vote_count":110},{"adult":false,"backdrop_path":null,"genre_ids":[27],"id":1354441,"original_language":"es","original_title":"La hacienda: El regreso de los malditos","overview":"A group of friends return to their hometown after many years. The trip is an excuse to reminisce about old times but turns into a nightmare when they unearth their darkest memories.","popularity":152.0131,"poster_path":"/vXUfuM7tPvAL8HjjnsFO4yYbKUs.jpg","release_date":"2025-03-09","title":"La hacienda: El regreso de los malditos","video":false,"vote_average":10.0,"vote_count":1},{"adult":false,"backdrop_path":"/z8tNyAAnGk2d1XmO1L4i34UmP19.jpg","genre_ids":[28,53],"id":1367575,"original_language":"en","original_title":"A Line of Fire","overview":"After working as a secret agent in the FBI for ten years, Jack 'Cash' Conry left it all behind after his wife passed in order to dedicate himself to his two daughters. Despite a fulfilling life at home, Cash misses the chance to make an impact and has been considering a return to the force. The decision is made for him when his old partner’s niece Jamie calls him for help, launching Cash right back into a world of danger, corruption and intrigue.","popularity":137.5159,"poster_path":"/jSG2mg1998DUAam6X9EA6SeJmqD.jpg","release_date":"2025-04-05","title":"A Line of Fire","video":false,"vote_average":6.4,"vote_count":30}]
-/// total_pages : 52376
-/// total_results : 1047513
-
 class Movies {
-  Movies({
-      num page, 
-      List<Results> results, 
-      num totalPages, 
-      num totalResults,}){
-    _page = page;
-    _results = results;
-    _totalPages = totalPages;
-    _totalResults = totalResults;
-}
+  int? page;
+  List<Results>? results;
+  int? totalPages;
+  int? totalResults;
 
-  Movies.fromJson(dynamic json) {
-    _page = json['page'];
+  Movies({this.page, this.results, this.totalPages, this.totalResults});
+
+  Movies.fromJson(Map<String, dynamic> json) {
+    page = json['page'];
     if (json['results'] != null) {
-      _results = [];
+      results = <Results>[];
       json['results'].forEach((v) {
-        _results.add(Results.fromJson(v));
+        results!.add(new Results.fromJson(v));
       });
     }
-    _totalPages = json['total_pages'];
-    _totalResults = json['total_results'];
+    totalPages = json['total_pages'];
+    totalResults = json['total_results'];
   }
-  num _page;
-  List<Results> _results;
-  num _totalPages;
-  num _totalResults;
-Movies copyWith({  num page,
-  List<Results> results,
-  num totalPages,
-  num totalResults,
-}) => Movies(  page: page ?? _page,
-  results: results ?? _results,
-  totalPages: totalPages ?? _totalPages,
-  totalResults: totalResults ?? _totalResults,
-);
-  num get page => _page;
-  List<Results> get results => _results;
-  num get totalPages => _totalPages;
-  num get totalResults => _totalResults;
 
   Map<String, dynamic> toJson() {
-    final map = <String, dynamic>{};
-    map['page'] = _page;
-    if (_results != null) {
-      map['results'] = _results.map((v) => v.toJson()).toList();
+    final Map<String, dynamic> data = new Map<String, dynamic>();
+    data['page'] = this.page;
+    if (this.results != null) {
+      data['results'] = this.results!.map((v) => v.toJson()).toList();
     }
-    map['total_pages'] = _totalPages;
-    map['total_results'] = _totalResults;
-    return map;
+    data['total_pages'] = this.totalPages;
+    data['total_results'] = this.totalResults;
+    return data;
   }
-
 }
-
-/// adult : false
-/// backdrop_path : "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg"
-/// genre_ids : [878,53]
-/// id : 755898
-/// original_language : "en"
-/// original_title : "War of the Worlds"
-/// overview : "Will Radford is a top analyst for Homeland Security who tracks potential threats through a mass surveillance program, until one day an attack by an unknown entity leads him to question whether the government is hiding something from him... and from the rest of the world."
-/// popularity : 583.5149
-/// poster_path : "/yvirUYrva23IudARHn3mMGVxWqM.jpg"
-/// release_date : "2025-07-29"
-/// title : "War of the Worlds"
-/// video : false
-/// vote_average : 4.351
-/// vote_count : 501
 
 class Results {
-  Results({
-      bool adult, 
-      String backdropPath, 
-      List<num> genreIds, 
-      num id, 
-      String originalLanguage, 
-      String originalTitle, 
-      String overview, 
-      num popularity, 
-      String posterPath, 
-      String releaseDate, 
-      String title, 
-      bool video, 
-      num voteAverage, 
-      num voteCount,}){
-    _adult = adult;
-    _backdropPath = backdropPath;
-    _genreIds = genreIds;
-    _id = id;
-    _originalLanguage = originalLanguage;
-    _originalTitle = originalTitle;
-    _overview = overview;
-    _popularity = popularity;
-    _posterPath = posterPath;
-    _releaseDate = releaseDate;
-    _title = title;
-    _video = video;
-    _voteAverage = voteAverage;
-    _voteCount = voteCount;
-}
+  bool? adult;
+  String? backdropPath;
+  List<int>? genreIds;
+  int? id;
+  String? originalLanguage;
+  String? originalTitle;
+  String? overview;
+  double? popularity;
+  String? posterPath;
+  String? releaseDate;
+  String? title;
+  bool? video;
+  double? voteAverage;
+  int? voteCount;
 
-  Results.fromJson(dynamic json) {
-    _adult = json['adult'];
-    _backdropPath = json['backdrop_path'];
-    _genreIds = json['genre_ids'] != null ? json['genre_ids'].cast<num>() : [];
-    _id = json['id'];
-    _originalLanguage = json['original_language'];
-    _originalTitle = json['original_title'];
-    _overview = json['overview'];
-    _popularity = json['popularity'];
-    _posterPath = json['poster_path'];
-    _releaseDate = json['release_date'];
-    _title = json['title'];
-    _video = json['video'];
-    _voteAverage = json['vote_average'];
-    _voteCount = json['vote_count'];
+  Results(
+      {this.adult,
+        this.backdropPath,
+        this.genreIds,
+        this.id,
+        this.originalLanguage,
+        this.originalTitle,
+        this.overview,
+        this.popularity,
+        this.posterPath,
+        this.releaseDate,
+        this.title,
+        this.video,
+        this.voteAverage,
+        this.voteCount});
+
+  Results.fromJson(Map<String, dynamic> json) {
+    adult = json['adult'];
+    backdropPath = json['backdrop_path'];
+    genreIds = json['genre_ids'].cast<int>();
+    id = json['id'];
+    originalLanguage = json['original_language'];
+    originalTitle = json['original_title'];
+    overview = json['overview'];
+    popularity = json['popularity'];
+    posterPath = json['poster_path'];
+    releaseDate = json['release_date'];
+    title = json['title'];
+    video = json['video'];
+    voteAverage = json['vote_average'];
+    voteCount = json['vote_count'];
   }
-  bool _adult;
-  String _backdropPath;
-  List<num> _genreIds;
-  num _id;
-  String _originalLanguage;
-  String _originalTitle;
-  String _overview;
-  num _popularity;
-  String _posterPath;
-  String _releaseDate;
-  String _title;
-  bool _video;
-  num _voteAverage;
-  num _voteCount;
-Results copyWith({  bool adult,
-  String backdropPath,
-  List<num> genreIds,
-  num id,
-  String originalLanguage,
-  String originalTitle,
-  String overview,
-  num popularity,
-  String posterPath,
-  String releaseDate,
-  String title,
-  bool video,
-  num voteAverage,
-  num voteCount,
-}) => Results(  adult: adult ?? _adult,
-  backdropPath: backdropPath ?? _backdropPath,
-  genreIds: genreIds ?? _genreIds,
-  id: id ?? _id,
-  originalLanguage: originalLanguage ?? _originalLanguage,
-  originalTitle: originalTitle ?? _originalTitle,
-  overview: overview ?? _overview,
-  popularity: popularity ?? _popularity,
-  posterPath: posterPath ?? _posterPath,
-  releaseDate: releaseDate ?? _releaseDate,
-  title: title ?? _title,
-  video: video ?? _video,
-  voteAverage: voteAverage ?? _voteAverage,
-  voteCount: voteCount ?? _voteCount,
-);
-  bool get adult => _adult;
-  String get backdropPath => _backdropPath;
-  List<num> get genreIds => _genreIds;
-  num get id => _id;
-  String get originalLanguage => _originalLanguage;
-  String get originalTitle => _originalTitle;
-  String get overview => _overview;
-  num get popularity => _popularity;
-  String get posterPath => _posterPath;
-  String get releaseDate => _releaseDate;
-  String get title => _title;
-  bool get video => _video;
-  num get voteAverage => _voteAverage;
-  num get voteCount => _voteCount;
 
   Map<String, dynamic> toJson() {
-    final map = <String, dynamic>{};
-    map['adult'] = _adult;
-    map['backdrop_path'] = _backdropPath;
-    map['genre_ids'] = _genreIds;
-    map['id'] = _id;
-    map['original_language'] = _originalLanguage;
-    map['original_title'] = _originalTitle;
-    map['overview'] = _overview;
-    map['popularity'] = _popularity;
-    map['poster_path'] = _posterPath;
-    map['release_date'] = _releaseDate;
-    map['title'] = _title;
-    map['video'] = _video;
-    map['vote_average'] = _voteAverage;
-    map['vote_count'] = _voteCount;
-    return map;
+    final Map<String, dynamic> data = new Map<String, dynamic>();
+    data['adult'] = this.adult;
+    data['backdrop_path'] = this.backdropPath;
+    data['genre_ids'] = this.genreIds;
+    data['id'] = this.id;
+    data['original_language'] = this.originalLanguage;
+    data['original_title'] = this.originalTitle;
+    data['overview'] = this.overview;
+    data['popularity'] = this.popularity;
+    data['poster_path'] = this.posterPath;
+    data['release_date'] = this.releaseDate;
+    data['title'] = this.title;
+    data['video'] = this.video;
+    data['vote_average'] = this.voteAverage;
+    data['vote_count'] = this.voteCount;
+    return data;
   }
-
 }

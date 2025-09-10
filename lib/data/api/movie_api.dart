@@ -13,7 +13,7 @@ class MoviesApi {
     dio = Dio(options);
   }
 
-  Future<List<dynamic>?> getAllMovies() async {
+  Future<List<dynamic>> getAllMovies() async {
     try {
       Response response = await dio.get(baseUrl);
       return response.data;
