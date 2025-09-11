@@ -20,51 +20,54 @@ class SingleMovieCard extends StatelessWidget {
             borderRadius: BorderRadius.circular(12),
             child: movieDetails.posterPath!.isNotEmpty
                 ? FadeInImage.assetNetwork(
-                    width: double.infinity,
-                    height: 180,
+                    width: MediaQuery.of(context).size.width * .5,
+                    height: MediaQuery.of(context).size.height * .236,
+
                     placeholder: "assets/images/loading.gif",
                     image: "$imageUrl${movieDetails.posterPath}",
                     fit: BoxFit.fill,
                   )
-                : Image.asset("assets/images/error.png"),
+                : Image.asset(
+                    "assets/images/error.png",
+                    width: MediaQuery.of(context).size.width * .5,
+                    height: MediaQuery.of(context).size.height * .236,
+                  ),
           ),
           Padding(
             padding: const EdgeInsets.all(8.0),
             child: Row(
               children: [
                 Expanded(
-                  flex: 2,
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Text(
                         "${movieDetails.title}",
-                        style: TextStyle(color: Colors.black),
+                        style: TextStyle(
+                          color: Colors.black,
+                          fontSize: MediaQuery.of(context).size.width * .04,
+                        ),
                         maxLines: 1,
                         overflow: TextOverflow.ellipsis,
                       ),
                       Text(
                         "${movieDetails.releaseDate}",
-                        style: TextStyle(color: Colors.grey),
+                        style: TextStyle(
+                          color: Colors.grey,
+                          fontSize: MediaQuery.of(context).size.width * .035,
+                        ),
                       ),
                     ],
                   ),
                 ),
-                Spacer(),
-                Expanded(
-                  child: Row(
-                    children: [
-                      Icon(
-                        Icons.star,
-                        color: Colors.yellow,
-                        size: 34,
-                      ),
-                      Text(
-                        "${movieDetails.voteAverage}",
-                        style: TextStyle(color: Colors.black),
-                      ),
-                    ],
-                  ),
+                Row(
+                  children: [
+                    Icon(Icons.star, color: Colors.yellow, size: MediaQuery.of(context).size.width *0.1),
+                    Text(
+                      "${movieDetails.voteAverage}",
+                      style: TextStyle(color: Colors.black,fontSize: MediaQuery.of(context).size.width *0.045),
+                    ),
+                  ],
                 ),
               ],
             ),
