@@ -21,8 +21,7 @@ class SingleMovieCard extends StatelessWidget {
             child: movieDetails.posterPath!.isNotEmpty
                 ? FadeInImage.assetNetwork(
                     width: MediaQuery.of(context).size.width * .5,
-                    height: MediaQuery.of(context).size.height * .236,
-
+                    height: MediaQuery.of(context).size.height * .3,
                     placeholder: "assets/images/loading.gif",
                     image: "$imageUrl${movieDetails.posterPath}",
                     fit: BoxFit.fill,

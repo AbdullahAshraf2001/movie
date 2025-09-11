@@ -64,7 +64,7 @@ class _MoviesScreenState extends State<MoviesScreen> {
     return GridView.builder(
       gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
         crossAxisCount: 1,
-        childAspectRatio: 1.4,
+        childAspectRatio: 1.1,
       ),
       shrinkWrap: true,
       physics: NeverScrollableScrollPhysics(),
