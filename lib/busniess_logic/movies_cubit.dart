@@ -17,7 +17,6 @@ class MoviesCubit extends Cubit<MoviesState> {
       movies = moviesResponse.results ?? [];
       emit(MoviesLoaded(movies));
     });
-
     return movies;
   }
 }
