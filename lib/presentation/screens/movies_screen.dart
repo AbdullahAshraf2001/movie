@@ -27,6 +27,7 @@ class _MoviesScreenState extends State<MoviesScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Colors.white,
       appBar: AppBar(
         backgroundColor: Color(0xFF45005E),
         leading: isSearching ? BackButton(color: Colors.white) : null,
@@ -112,6 +113,7 @@ class _MoviesScreenState extends State<MoviesScreen> {
     if (isSearching) {
       return InkWell(
         onTap: () {
+          FocusScope.of(context).unfocus();
           addSearchedMovieToSearchedList(searchTextController.text.toLowerCase());
         },
         child: Padding(

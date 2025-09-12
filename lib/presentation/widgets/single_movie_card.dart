@@ -23,6 +23,7 @@ class SingleMovieCard extends StatelessWidget {
                     width: MediaQuery.of(context).size.width * .5,
                     height: MediaQuery.of(context).size.height * .3,
                     placeholder: "assets/images/loading.gif",
+                    placeholderFit: BoxFit.scaleDown,
                     image: "$imageUrl${movieDetails.posterPath}",
                     fit: BoxFit.fill,
                   )
